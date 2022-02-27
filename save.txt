@@ -1,0 +1,27 @@
+Barszcz sosnowskiego 1 0
+Barszcz sosnowskiego 1 1
+Barszcz sosnowskiego 17 2
+Wilcze jagody 1 5
+Cyberowca 8 5
+Wilk 18 5
+Cyberowca 2 6
+Antylopa 0 7
+Guarana 3 7
+Wilk 5 8
+Lis 6 8
+Czlowiek 10 10
+Antylopa 14 10
+Antylopa 6 12
+Mlecz 0 14
+Mlecz 1 14
+Cyberowca 2 14
+Wilk 3 14
+Trawa 9 14
+Zolw 6 15
+Owca 10 15
+Guarana 15 15
+Zolw 18 16
+Lis 7 18
+Owca 10 18
+Wilcze jagody 14 18
+Lis 17 19
